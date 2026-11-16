@@ -1,0 +1,15 @@
+{
+    "key": "databasifylabs/example-dns",
+    "name": "Example DNS",
+    "version": "2.0.0",
+    "author": {
+        "name": "Databasify",
+        "url": "https://github.com/databasifylabs"
+    },
+    "class": "Databasify\\ExampleDns\\ExampleDnsPlugin",
+    "autoload": {
+        "Databasify\\ExampleDns\\": "src/"
+    },
+    "requires": "^0.2",
+    "icon": "icon.svg"
+}
